@@ -52,7 +52,7 @@ function ReviewColumn({
     })
 
     resizeObserver.observe(columnRef.current)
-
+    //cleanup action
     return () => {
       resizeObserver.disconnect()
     }
