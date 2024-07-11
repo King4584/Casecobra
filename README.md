@@ -2,7 +2,7 @@
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
-[Live Demo](https://casecobra-nu-eight.vercel.app)
+[Live Demo](https://casecobra-nu-eight.vercel.app) 
 
 ## Features
 
